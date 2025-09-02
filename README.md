@@ -40,8 +40,6 @@ Follow these steps to get the EV Workforce Allocation application up and running
 
 This project uses synthetic datasets to simulate worker and task allocation on an EV assembly line. The original datasets are available for download from this Google Drive link:
 
-**[Dataset on Google Drive](https://drive.google.com/drive/folders/1DMjfUsS_lwZa_W98u-nWpRjtmfgMBYhW?usp=drive_link)**
-
 #### **1. Install Dependencies 📦**
 
 It is highly recommended to use a virtual environment to avoid conflicts.
